@@ -57,6 +57,7 @@ Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lak
 
 
 Tugas !
+
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
 penjelasannya!
 
