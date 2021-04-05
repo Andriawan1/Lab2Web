@@ -57,5 +57,29 @@ Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lak
 
 
 Tugas !
-1. Perbedaan pendeklarasian  CSS elemen h1 {...} dengan #intro h1{...}
-   h1 
+2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan
+penjelasannya!
+
+3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
+penjelasan dan contohnya!
+
+4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
+Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+   
+Penyelesaian:
+
+2. Perbedaan pendeklarasian  CSS elemen h1 {...} dengan #intro h1{...}
+
+   - h1 {...} adalah pendeklarasian elemen yang hanya merubah elemen pada "h1" yang sudah di tandai sedangkan.
+   - #intro h1 {...} adalah pendeklarasian yang mengacu kepada pemberian atribut pada "h1" dengan menambahakan ID"intro".
+
+3. Deklarasi yang akan ditampilkan adalah deklarasi Inline yang akan di tampilkan pada Web Browser
+4. Apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi yang akan di tampilkan pada Web Browser adalah Class ID. Karena Class ID secara individu mewakili semua atribut yang ada. 
+- untuk contohnya dapat kita lihat, pada gambar berikut:
+![e15](https://user-images.githubusercontent.com/81581236/113592289-27e04200-965f-11eb-8702-fa4ea9cf0f42.PNG)
+![e16](https://user-images.githubusercontent.com/81581236/113593270-6de9d580-9660-11eb-8423-00f92d630096.PNG)
+untuk tampilan di Web Browsernya seperti gambar :
+![e17](https://user-images.githubusercontent.com/81581236/113593352-89ed7700-9660-11eb-8c68-4574399820a9.PNG)
+
