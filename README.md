@@ -48,10 +48,14 @@ Selanjutnya Simpan Perubahan pada coodingan anda dengan mengklik CTRL+S, dan lak
 
 - Kemudian simpan kembali dan refresh browser untuk melihat hasil perubannya.
 
-![e11](https://user-images.githubusercontent.com/81581236/113516853-ce1c4100-95a6-11eb-9290-78639b43d4f2.PNG)
+![e14](https://user-images.githubusercontent.com/81581236/113576201-4fc4ab00-9649-11eb-91a1-9c7bfa7c3607.PNG)
+
 
 6. Melaukan Validasi dokumen CSS dengan mengakses https://jigsaw.w3.org/css-validator/
 ![e12](https://user-images.githubusercontent.com/81581236/113517206-bf368e00-95a8-11eb-92e4-b6e921587c35.PNG)
 ![e13](https://user-images.githubusercontent.com/81581236/113517214-c52c6f00-95a8-11eb-85b8-2a60929d8b67.PNG)
 
 
+Tugas !
+1. Perbedaan pendeklarasian  CSS elemen h1 {...} dengan #intro h1{...}
+   h1 
